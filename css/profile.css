@@ -1,0 +1,61 @@
+.title-profile {
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+
+.card-body>p {
+    font-size: 11px;
+}
+
+.card {
+    transition: all 0.3s;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+#footer-profile {
+    margin-top: 1px;
+    font-size: 11px;
+}
+
+#paging {
+    margin-top: 15px;
+}
+
+#paging-ixb-01 {
+    margin-top: 20px;
+}
+
+#paging-ixc-05 {
+    margin-top: 2px;
+}
+
+#paging-ixd-05 {
+    margin-top: 0px;
+}
+
+#paging-ixd-06 {
+    margin-top: 0px;
+}
+
+#paging-ixf-01 {
+    margin-top: 20px;
+}
+
+#paging-ixf-05 {
+    margin-top: 1px;
+}
+
+#paging-ixf-06 {
+    margin-top: 40px;
+}
+
+#paging-ixf-05 {
+    margin-top: 10px;
+}
+
+#paging-ixi-04 {
+    margin-top: 15px;
+}

@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700;800&display=swap');
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: "raleway", sans-serif;
+    /* background-color: #eeeee6; */
+    /* background-color: #EEEEEE; */
+    background-color: whitesmoke;
+}
+
+.nav-link:hover {
+    color: white !important;
+    background-color: #345beb;
+}
+
+.dropdown-item:hover {
+    color: white;
+    background-color: #345beb;
+}
+
+.dropdown-item.active {
+    background-color: #345beb;
+}
+
+.form-control:focus,
+.form-select:valid:focus {
+    box-shadow: none;
+}
+
+.list-group-item:hover {
+    background: whitesmoke;
+}
+
+/* .modal-body {
+    background-color: whitesmoke;
+} */
+
+.btn-primary,
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+    background-color: #345beb !important;
+    border-color: #345beb !important;
+}
+
+.list-group-item-primary,
+.list-group-item-primary:hover {
+    background-color: #345beb;
+    color: white;
+}
+
+.accordion-button,
+.accordion-button:hover,
+.accordion-button:focus,
+.accordion-button:active,
+.accordion-button:not(.collapsed) {
+    background: transparent;
+    box-shadow: none;
+    outline: none;
+    background-color: #345beb;
+    color: white;
+}
+
+.accordion-button::after {
+    color: white;
+}
